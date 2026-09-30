@@ -1,0 +1,9 @@
+{
+  "experiment": "defensive-keylogger-analysis",
+  "version": "1.0",
+  "safe_mode": true,
+  "input_source": "synthetic",
+  "real_keyboard_capture": false,
+  "events_to_generate": 12,
+  "process_name": "lab_simulator.exe"
+}

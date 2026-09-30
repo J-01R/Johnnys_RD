@@ -1,0 +1,16 @@
+[
+  {
+    "rule_id": "SYNTHETIC_INPUT_ACTIVITY",
+    "severity": "HIGH",
+    "process": "lab_simulator.exe",
+    "evidence_count": 12,
+    "rationale": "A process generated synthetic keyboard-like telemetry."
+  },
+  {
+    "rule_id": "UNEXPECTED_INPUT_VOLUME",
+    "severity": "MEDIUM",
+    "process": "lab_simulator.exe",
+    "evidence_count": 12,
+    "rationale": "A process generated more synthetic input events than the configured threshold."
+  }
+]
