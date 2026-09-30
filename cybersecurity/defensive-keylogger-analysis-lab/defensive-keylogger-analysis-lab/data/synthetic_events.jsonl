@@ -1,0 +1,12 @@
+{"timestamp": "2026-09-30T20:15:13.248077+00:00", "event_type": "synthetic_input", "process_name": "lab_simulator.exe", "pid": 0, "sequence": 1, "synthetic": true, "value": "KEY_EVENT_B"}
+{"timestamp": "2026-09-30T20:15:13.248077+00:00", "event_type": "synthetic_input", "process_name": "lab_simulator.exe", "pid": 0, "sequence": 2, "synthetic": true, "value": "KEY_EVENT_SPACE"}
+{"timestamp": "2026-09-30T20:15:13.248077+00:00", "event_type": "synthetic_input", "process_name": "lab_simulator.exe", "pid": 0, "sequence": 3, "synthetic": true, "value": "KEY_EVENT_A"}
+{"timestamp": "2026-09-30T20:15:13.248077+00:00", "event_type": "synthetic_input", "process_name": "lab_simulator.exe", "pid": 0, "sequence": 4, "synthetic": true, "value": "KEY_EVENT_ENTER"}
+{"timestamp": "2026-09-30T20:15:13.248077+00:00", "event_type": "synthetic_input", "process_name": "lab_simulator.exe", "pid": 0, "sequence": 5, "synthetic": true, "value": "KEY_EVENT_ENTER"}
+{"timestamp": "2026-09-30T20:15:13.248077+00:00", "event_type": "synthetic_input", "process_name": "lab_simulator.exe", "pid": 0, "sequence": 6, "synthetic": true, "value": "KEY_EVENT_SPACE"}
+{"timestamp": "2026-09-30T20:15:13.248077+00:00", "event_type": "synthetic_input", "process_name": "lab_simulator.exe", "pid": 0, "sequence": 7, "synthetic": true, "value": "KEY_EVENT_SPACE"}
+{"timestamp": "2026-09-30T20:15:13.248077+00:00", "event_type": "synthetic_input", "process_name": "lab_simulator.exe", "pid": 0, "sequence": 8, "synthetic": true, "value": "KEY_EVENT_B"}
+{"timestamp": "2026-09-30T20:15:13.248077+00:00", "event_type": "synthetic_input", "process_name": "lab_simulator.exe", "pid": 0, "sequence": 9, "synthetic": true, "value": "KEY_EVENT_A"}
+{"timestamp": "2026-09-30T20:15:13.248077+00:00", "event_type": "synthetic_input", "process_name": "lab_simulator.exe", "pid": 0, "sequence": 10, "synthetic": true, "value": "KEY_EVENT_ENTER"}
+{"timestamp": "2026-09-30T20:15:13.248077+00:00", "event_type": "synthetic_input", "process_name": "lab_simulator.exe", "pid": 0, "sequence": 11, "synthetic": true, "value": "KEY_EVENT_B"}
+{"timestamp": "2026-09-30T20:15:13.248077+00:00", "event_type": "synthetic_input", "process_name": "lab_simulator.exe", "pid": 0, "sequence": 12, "synthetic": true, "value": "KEY_EVENT_ENTER"}
